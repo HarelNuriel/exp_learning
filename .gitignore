@@ -1,1 +1,8 @@
-*.zip
+# ignore everything by default and allow what I want
+*
+
+# Allow list
+!*/
+!*.py
+!*.md
+!.gitignore
